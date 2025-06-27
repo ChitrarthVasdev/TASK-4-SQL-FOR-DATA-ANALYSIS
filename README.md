@@ -43,7 +43,7 @@ Key columns include:
 
 
 
-## ⚙️ 1️⃣ Importing Data to MySQL
+## ⚙️  Importing Data to MySQL
 
 **Steps:**
 1. Open **MySQL Workbench**.
@@ -69,7 +69,7 @@ Key columns include:
 
 ---
 
-## ⚙️ 2️⃣ Running Analysis Queries
+## ⚙️  Running Analysis Queries
 
 All analysis queries are provided in **`task4_queries.sql`**.
 
