@@ -32,11 +32,11 @@ Key columns include:
 ## FILES PROVIDED IN REPOSITORY
 
 📁 Task-4-SQL-Data-Analysis
-│
-├── E-commerce_Dataset.csv
-├── TASK 4 SQL QUERIES.sql
-├── README.md
-└── OUTPUT SCREENSHOTS.pdf
+
+ 1) E-commerce_Dataset.csv
+ 2) TASK 4 SQL QUERIES.sql
+ 3) README.md
+ 4) OUTPUT SCREENSHOTS.pdf
 
 
 ## => REFER TO THE ABOVE FILES TO KNOW ABOUT WHAT IS DONE IN TASK 4
