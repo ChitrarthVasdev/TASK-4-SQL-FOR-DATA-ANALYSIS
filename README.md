@@ -106,7 +106,7 @@ To confirm indexes are created:
 * MySQL Workbench
 * CSV dataset
 
----
+
 
 ## ✨ Author
 CHITRARTH VASDEV
