@@ -27,7 +27,16 @@ Key columns include:
 - Gender
 - ... (other fields as per CSV)
 
----
+## FILES PROVIDED IN REPOSITORY
+
+📁 Task-4-SQL-Data-Analysis
+│
+├── E-commerce_Dataset.csv
+├── TASK 4 SQL QUERIES.sql
+├── README.md
+└── OUTPUT SCREENSHOTS.pdf
+
+## => REFER TO THE ABOVE FILES TO KNOW ABOUT WHAT IS DONE IN TASK 4
 
 ## ⚙️ 1️⃣ Importing Data to MySQL
 
@@ -84,18 +93,15 @@ To confirm indexes are created:
 
 
 
-## 📂 Project Structure Example
+##  📂 Project Structure Example
 
-```
 📁 Task-4-SQL-Data-Analysis/
 │
 ├── E-commerce_Dataset.csv
 ├── TASK 4 SQL QUERIES.sql
 ├── README.md
 └── OUTPUT SCREENSHOTS.pdf
-```
 
----
 
 ## ✅ Tools Used
 
